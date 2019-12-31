@@ -7,3 +7,5 @@
 -git add:Add changes from staging area to current branch
 -git commit:Commit changes from staging area to branch
 -git config:Set configuration
+-git branch -c:Create a branch
+-git checkout: Checkout a branch or Switch to a branch
