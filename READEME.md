@@ -8,3 +8,4 @@
 -git commit:Commit changes from staging area to branch
 -git config:Set configuration
 -git checkout: Check out branch(update HEAD and apply changes to working directory)
+-git merge: Merge changes from different branches
