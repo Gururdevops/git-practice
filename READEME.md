@@ -8,6 +8,7 @@
 -git commit:Commit changes from staging area to branch
 -git config:Set configuration
 -git branch:List branches
+-git checkout: check out a branch (update HEAD)
 -git checkout -b:Create branch,then check it checkout
 
 # What's a branch?
