@@ -11,3 +11,4 @@
 -git merge: Merge changes from different branches
 
 -A fat-forward merge happens when the target branch was branched from the current one,and there are no new changes to the current branch since then.
+- An automatic merge happens when the two histories have diverged,but git is able to reconcile them into one set of changes.This creates a new commit on the current branch.
