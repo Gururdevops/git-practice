@@ -10,6 +10,4 @@
 -git checkout: Check out branch(update HEAD and apply changes to working directory)
 -git merge: Merge changes from different branches
 
-## Merging
-
-Merging means to bring the changes from one branch into another
+-A fat-forward merge happens when the target branch was branched from the current one,and there are no new changes to the current branch since then.
